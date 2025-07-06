@@ -417,5 +417,21 @@ The systematic optimization approach yielded exceptional results:
 
 ---
 
-## Author 
-- Clearence Mpho Muluvhu
+## Appendix A: Complete Optimization Checklist
+
+-  Analyzed original query performance issues
+-  Created essential single-column indexes
+-  Implemented composite indexes for query patterns
+-  Optimized SELECT clause for specific columns
+-  Added strategic WHERE filtering conditions
+-  Optimized JOIN order and types
+-  Implemented LIMIT clauses for result set control
+-  Created covering indexes for high-frequency queries
+-  Developed alternative query strategies (subqueries, CTEs)
+-  Established performance monitoring procedures
+
+---
+
+**Report Generated:** July 2, 2025  
+**Database Version:** MySQL 8.0+  
+  
